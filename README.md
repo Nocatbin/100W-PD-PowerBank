@@ -25,6 +25,10 @@ USB-C协议测试
 
 ![pic](https://github.com/Nocatbin/100W-PD-PowerBank/blob/master/Reference/TestResult/Charging_65W.jpg)
 
+VOOC 18W输出测试
+
+![pic](https://github.com/Nocatbin/100W-PD-PowerBank/blob/master/Reference/TestResult/VOOC_18W.jpg)
+
 100W PD诱骗转DC测试
 
 ![pic](https://github.com/Nocatbin/100W-PD-PowerBank/blob/master/Reference/TestResult/PD_OUT_100W_Peak.jpg)
